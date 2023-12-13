@@ -1,0 +1,1457 @@
+{
+	"custom_signs": {
+		"lc_metro": {
+			"texture_id": "mtr:lc/location/ic_metro.png",
+			"custom_text": "Metropolitana|Subway",
+			"small": true
+		},
+		"lc_metro_flip": {
+			"texture_id": "mtr:lc/location/ic_metro.png",
+			"custom_text": "Metropolitana|Subway",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_metro": {
+			"texture_id": "mtr:lc/location/ic_metro.png",
+			"small": true
+		},
+		"lc_sos": {
+			"texture_id": "mtr:lc/indic/ic_sos.png",
+			"small": true,
+			"background_color": "D40000"
+		},
+		"lc_ic_sos": {
+			"texture_id": "mtr:lc/indic/ic_sos.png",
+			"small": true
+		},
+		"lc_cambio": {
+			"texture_id": "mtr:lc/ic_cambio.png",
+			"custom_text": "Cambio valuta|Currency exchange",
+			"small": true
+		},
+		"lc_cambio_flip": {
+			"texture_id": "mtr:lc/ic_cambio.png",
+			"custom_text": "Cambio valuta|Currency exchange",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_cambio": {
+			"texture_id": "mtr:lc/ic_cambio.png",
+			"small": true
+		},
+		"lc_ic_direz": {
+			"texture_id": "mtr:lc/ic_direz.png",
+			"small": true
+		},
+		"lc_entrata": {
+			"texture_id": "mtr:lc/ic_entrata.png",
+			"custom_text": "Entrata|Entrance",
+			"small": true
+		},
+		"lc_entrata_flip": {
+			"texture_id": "mtr:lc/ic_entrata.png",
+			"custom_text": "Entrata|Entrance",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_entrata": {
+			"texture_id": "mtr:lc/ic_entrata.png",
+			"small": true
+		},
+		"lc_uscita": {
+			"texture_id": "mtr:lc/ic_uscita.png",
+			"custom_text": "Uscita|Exit",
+			"small": true
+		},
+		"lc_uscita_flip": {
+			"texture_id": "mtr:lc/ic_uscita.png",
+			"custom_text": "Uscita|Exit",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_uscita": {
+			"texture_id": "mtr:lc/ic_uscita.png",
+			"small": true
+		},
+		"lc_rampaped": {
+			"texture_id": "mtr:lc/indic/ic_rampaped.png",
+			"custom_text": "Rampa pedonale|Pedestrian ramp",
+			"small": true
+		},
+		"lc_rampaped_flip": {
+			"texture_id": "mtr:lc/indic/ic_rampaped.png",
+			"custom_text": "Rampa pedonale|Pedestrian ramp",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_rampaped": {
+			"texture_id": "mtr:lc/indic/ic_rampaped.png",
+			"small": true
+		},
+		"lc_sottoped": {
+			"texture_id": "mtr:lc/indic/ic_sottoped.png",
+			"custom_text": "Sottopassaggio|Underpass",
+			"small": true
+		},
+		"lc_sottoped_flip": {
+			"texture_id": "mtr:lc/indic/ic_sottoped.png",
+			"custom_text": "Sottopassaggio|Underpass",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_sottoped": {
+			"texture_id": "mtr:lc/indic/ic_sottoped.png",
+			"small": true
+		},
+		"lc_sovraped": {
+			"texture_id": "mtr:lc/indic/ic_sovraped.png",
+			"custom_text": "Sovrapassaggio|Overpass",
+			"small": true
+		},
+		"lc_sovraped_flip": {
+			"texture_id": "mtr:lc/indic/ic_sovraped.png",
+			"custom_text": "Sovrapassaggio|Overpass",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_sovraped": {
+			"texture_id": "mtr:lc/indic/ic_sovraped.png",
+			"small": true
+		},
+		"lc_aeroporto": {
+			"texture_id": "mtr:lc/location/ic_aeroporto.png",
+			"custom_text": "Aeroporto|Airport",
+			"small": true
+		},
+		"lc_aeroporto_flip": {
+			"texture_id": "mtr:lc/location/ic_aeroporto.png",
+			"custom_text": "Aeroporto|Airport",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_aeroporto": {
+			"texture_id": "mtr:lc/location/ic_aeroporto.png",
+			"small": true
+		},
+		"lc_aeroporto_arrivi": {
+			"texture_id": "mtr:lc/location/ic_aeroporto_arrivi.png",
+			"custom_text": "Arrivi|Arrivals",
+			"small": true
+		},
+		"lc_aeroporto_arrivi_flip": {
+			"texture_id": "mtr:lc/location/ic_aeroporto_arrivi.png",
+			"custom_text": "Arrivi|Arrivals",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_aeroporto_arrivi": {
+			"texture_id": "mtr:lc/location/ic_aeroporto_arrivi.png",
+			"small": true
+		},
+		"lc_aeroporto_part": {
+			"texture_id": "mtr:lc/location/ic_aeroporto_part.png",
+			"custom_text": "Partenze|Departures",
+			"small": true
+		},
+		"lc_aeroporto_part_flip": {
+			"texture_id": "mtr:lc/location/ic_aeroporto_part.png",
+			"custom_text": "Partenze|Departures",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_aeroporto_part": {
+			"texture_id": "mtr:lc/location/ic_aeroporto_part.png",
+			"small": true
+		},
+		"lc_albergo": {
+			"texture_id": "mtr:lc/location/ic_albergo.png",
+			"custom_text": "Albergo|Hotel",
+			"small": true
+		},
+		"lc_albergo_flip": {
+			"texture_id": "mtr:lc/location/ic_albergo.png",
+			"custom_text": "Albergo|Hotel",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_albergo": {
+			"texture_id": "mtr:lc/location/ic_albergo.png",
+			"small": true
+		},
+		"lc_ic_ambu": {
+			"texture_id": "mtr:lc/location/ic_ambu.png",
+			"small": true
+		},
+		"lc_autorimessa": {
+			"texture_id": "mtr:lc/location/ic_autorimessa.png",
+			"custom_text": "Autorimessa|Garage",
+			"small": true
+		},
+		"lc_autorimessa_flip": {
+			"texture_id": "mtr:lc/location/ic_autorimessa.png",
+			"custom_text": "Autorimessa|Garage",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_autorimessa": {
+			"texture_id": "mtr:lc/location/ic_autorimessa.png",
+			"small": true
+		},
+		"lc_autostazione": {
+			"texture_id": "mtr:lc/location/ic_autostazione.png",
+			"custom_text": "Autostazione|Bus terminal",
+			"small": true
+		},
+		"lc_autostazione_flip": {
+			"texture_id": "mtr:lc/location/ic_autostazione.png",
+			"custom_text": "Autostazione|Bus terminal",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_autostazione": {
+			"texture_id": "mtr:lc/location/ic_autostazione.png",
+			"small": true
+		},
+		"lc_autostr": {
+			"texture_id": "mtr:lc/location/ic_autostr.png",
+			"custom_text": "Autostrada|Highway",
+			"small": true
+		},
+		"lc_autostr_flip": {
+			"texture_id": "mtr:lc/location/ic_autostr.png",
+			"custom_text": "Autostrada|Highway",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_autostr": {
+			"texture_id": "mtr:lc/location/ic_autostr.png",
+			"small": true
+		},
+		"lc_banca": {
+			"texture_id": "mtr:lc/location/ic_banca.png",
+			"custom_text": "Banca|Bank",
+			"small": true
+		},
+		"lc_banca_flip": {
+			"texture_id": "mtr:lc/location/ic_banca.png",
+			"custom_text": "Banca|Bank",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_banca": {
+			"texture_id": "mtr:lc/location/ic_banca.png",
+			"small": true
+		},
+		"lc_bar": {
+			"texture_id": "mtr:lc/location/ic_bar.png",
+			"custom_text": "Bar",
+			"small": true
+		},
+		"lc_bar_flip": {
+			"texture_id": "mtr:lc/location/ic_bar.png",
+			"custom_text": "Bar",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_bar": {
+			"texture_id": "mtr:lc/location/ic_bar.png",
+			"small": true
+		},
+		"lc_biblioteca": {
+			"texture_id": "mtr:lc/location/ic_biblioteca.png",
+			"custom_text": "Biblioteca|Library",
+			"small": true
+		},
+		"lc_biblioteca_flip": {
+			"texture_id": "mtr:lc/location/ic_biblioteca.png",
+			"custom_text": "Biblioteca|Library",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_biblioteca": {
+			"texture_id": "mtr:lc/location/ic_biblioteca.png",
+			"small": true
+		},
+		"lc_camping": {
+			"texture_id": "mtr:lc/location/ic_camping.png",
+			"custom_text": "Campeggio|Campsite",
+			"small": true
+		},
+		"lc_camping_flip": {
+			"texture_id": "mtr:lc/location/ic_camping.png",
+			"custom_text": "Campeggio|Campsite",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_camping": {
+			"texture_id": "mtr:lc/location/ic_camping.png",
+			"small": true
+		},
+		"lc_campoboario": {
+			"texture_id": "mtr:lc/location/ic_campoboario.png",
+			"custom_text": "Campo boario|Farm",
+			"small": true
+		},
+		"lc_campoboario_flip": {
+			"texture_id": "mtr:lc/location/ic_campoboario.png",
+			"custom_text": "Campo boario|Farm",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_campoboario": {
+			"texture_id": "mtr:lc/location/ic_campoboario.png",
+			"small": true
+		},
+		"lc_centro": {
+			"texture_id": "mtr:lc/location/ic_centro.png",
+			"custom_text": "Centro città|City center",
+			"small": true
+		},
+		"lc_centro_flip": {
+			"texture_id": "mtr:lc/location/ic_centro.png",
+			"custom_text": "Centro città|City center",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_centro": {
+			"texture_id": "mtr:lc/location/ic_centro.png",
+			"small": true
+		},
+		"lc_chiesa": {
+			"texture_id": "mtr:lc/location/ic_chiesa.png",
+			"custom_text": "Chiesa|Church",
+			"small": true
+		},
+		"lc_chiesa_flip": {
+			"texture_id": "mtr:lc/location/ic_chiesa.png",
+			"custom_text": "Chiesa|Church",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_chiesa": {
+			"texture_id": "mtr:lc/location/ic_chiesa.png",
+			"small": true
+		},
+		"lc_cimitero": {
+			"texture_id": "mtr:lc/location/ic_cimitero.png",
+			"custom_text": "Cimitero|Cemetery",
+			"small": true
+		},
+		"lc_cimitero_flip": {
+			"texture_id": "mtr:lc/location/ic_cimitero.png",
+			"custom_text": "Cimitero|Cemetery",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_cimitero": {
+			"texture_id": "mtr:lc/location/ic_cimitero.png",
+			"small": true
+		},
+		"lc_cinema": {
+			"texture_id": "mtr:lc/location/ic_cinema.png",
+			"custom_text": "Cinema",
+			"small": true
+		},
+		"lc_cinema_flip": {
+			"texture_id": "mtr:lc/location/ic_cinema.png",
+			"custom_text": "Cinema",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_cinema": {
+			"texture_id": "mtr:lc/location/ic_cinema.png",
+			"small": true
+		},
+		"lc_discoteca": {
+			"texture_id": "mtr:lc/location/ic_discoteca.png",
+			"custom_text": "Discoteca|Dance hall",
+			"small": true
+		},
+		"lc_discoteca_flip": {
+			"texture_id": "mtr:lc/location/ic_discoteca.png",
+			"custom_text": "Discoteca|Dance hall",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_discoteca": {
+			"texture_id": "mtr:lc/location/ic_discoteca.png",
+			"small": true
+		},
+		"lc_eliporto": {
+			"texture_id": "mtr:lc/location/ic_eliporto.png",
+			"custom_text": "Eliporto|Heliport",
+			"small": true
+		},
+		"lc_eliporto_flip": {
+			"texture_id": "mtr:lc/location/ic_eliporto.png",
+			"custom_text": "Eliporto|Heliport",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_eliporto": {
+			"texture_id": "mtr:lc/location/ic_eliporto.png",
+			"small": true
+		},
+		"lc_farmacia": {
+			"texture_id": "mtr:lc/location/ic_farmacia.png",
+			"custom_text": "Farmacia|Pharmacy",
+			"small": true
+		},
+		"lc_farmacia_flip": {
+			"texture_id": "mtr:lc/location/ic_farmacia.png",
+			"custom_text": "Farmacia|Pharmacy",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_farmacia": {
+			"texture_id": "mtr:lc/location/ic_farmacia.png",
+			"small": true
+		},
+		"lc_faro": {
+			"texture_id": "mtr:lc/location/ic_faro.png",
+			"custom_text": "Faro|Lighthouse",
+			"small": true
+		},
+		"lc_faro_flip": {
+			"texture_id": "mtr:lc/location/ic_faro.png",
+			"custom_text": "Faro|Lighthouse",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_faro": {
+			"texture_id": "mtr:lc/location/ic_faro.png",
+			"small": true
+		},
+		"lc_fiera": {
+			"texture_id": "mtr:lc/location/ic_fiera.png",
+			"custom_text": "Area fiere|Trade fairs",
+			"small": true
+		},
+		"lc_fiera_flip": {
+			"texture_id": "mtr:lc/location/ic_fiera.png",
+			"custom_text": "Area fiere|Trade fairs",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_fiera": {
+			"texture_id": "mtr:lc/location/ic_fiera.png",
+			"small": true
+		},
+		"lc_frontiera": {
+			"texture_id": "mtr:lc/location/ic_frontiera.png",
+			"custom_text": "Frontiera|Border",
+			"small": true
+		},
+		"lc_frontiera_flip": {
+			"texture_id": "mtr:lc/location/ic_frontiera.png",
+			"custom_text": "Frontiera|Border",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_frontiera": {
+			"texture_id": "mtr:lc/location/ic_frontiera.png",
+			"small": true
+		},
+		"lc_industria": {
+			"texture_id": "mtr:lc/location/ic_industria.png",
+			"custom_text": "Zona industriale|Industrial area",
+			"small": true
+		},
+		"lc_industria_flip": {
+			"texture_id": "mtr:lc/location/ic_industria.png",
+			"custom_text": "Zona industriale|Industrial area",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_industria": {
+			"texture_id": "mtr:lc/location/ic_industria.png",
+			"small": true
+		},
+		"lc_info": {
+			"texture_id": "mtr:lc/location/ic_info.png",
+			"custom_text": "Punto informazioni|Info point",
+			"small": true
+		},
+		"lc_info_flip": {
+			"texture_id": "mtr:lc/location/ic_info.png",
+			"custom_text": "Punto informazioni|Info point",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_info": {
+			"texture_id": "mtr:lc/location/ic_info.png",
+			"small": true
+		},
+		"lc_info_transp": {
+			"texture_id": "mtr:lc/location/ic_info_transp.png",
+			"custom_text": "Punto informazioni|Info point",
+			"background_color": "0077FF",
+			"small": true
+		},
+		"lc_info_transp_flip": {
+			"texture_id": "mtr:lc/location/ic_info_transp.png",
+			"custom_text": "Punto informazioni|Info point",
+			"flip_custom_text": true,
+			"background_color": "0077FF",
+			"small": true
+		},
+		"lc_ic_info_transp": {
+			"texture_id": "mtr:lc/location/ic_info_transp.png",
+			"small": true
+		},
+		"lc_mercato": {
+			"texture_id": "mtr:lc/location/ic_mercato.png",
+			"custom_text": "Mercato|Market",
+			"small": true
+		},
+		"lc_mercato_flip": {
+			"texture_id": "mtr:lc/location/ic_mercato.png",
+			"custom_text": "Mercato|Market",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_mercato": {
+			"texture_id": "mtr:lc/location/ic_mercato.png",
+			"small": true
+		},
+		"lc_ospedale": {
+			"texture_id": "mtr:lc/location/ic_ospedale.png",
+			"custom_text": "Ospedale|Hospital",
+			"small": true
+		},
+		"lc_ospedale_flip": {
+			"texture_id": "mtr:lc/location/ic_ospedale.png",
+			"custom_text": "Ospedale|Hospital",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_ospedale": {
+			"texture_id": "mtr:lc/location/ic_ospedale.png",
+			"small": true
+		},
+		"lc_parcheggio": {
+			"texture_id": "mtr:lc/location/ic_parcheggio.png",
+			"custom_text": "Parcheggio|Parking",
+			"small": true
+		},
+		"lc_parcheggio_flip": {
+			"texture_id": "mtr:lc/location/ic_parcheggio.png",
+			"custom_text": "Parcheggio|Parking",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_parcheggio": {
+			"texture_id": "mtr:lc/location/ic_parcheggio.png",
+			"small": true
+		},
+		"lc_parco_gioc": {
+			"texture_id": "mtr:lc/location/ic_parco_gioc.png",
+			"custom_text": "Parco giochi|Playground",
+			"small": true
+		},
+		"lc_parco_gioc_flip": {
+			"texture_id": "mtr:lc/location/ic_parco_gioc.png",
+			"custom_text": "Parco giochi|Playground",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_parco_gioc": {
+			"texture_id": "mtr:lc/location/ic_parco_gioc.png",
+			"small": true
+		},
+		"lc_polizia": {
+			"texture_id": "mtr:lc/location/ic_polizia.png",
+			"custom_text": "Polizia|Police",
+			"small": true
+		},
+		"lc_polizia_flip": {
+			"texture_id": "mtr:lc/location/ic_polizia.png",
+			"custom_text": "Polizia|Police",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_polizia": {
+			"texture_id": "mtr:lc/location/ic_polizia.png",
+			"small": true
+		},
+		"lc_poliziamunic": {
+			"texture_id": "mtr:lc/location/ic_poliziamunic.png",
+			"custom_text": "Polizia municipale|City police",
+			"small": true
+		},
+		"lc_poliziamunic_flip": {
+			"texture_id": "mtr:lc/location/ic_poliziamunic.png",
+			"custom_text": "Polizia municipale|City police",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_poliziamunic": {
+			"texture_id": "mtr:lc/location/ic_poliziamunic.png",
+			"small": true
+		},
+		"lc_poliziamunic_transp": {
+			"texture_id": "mtr:lc/location/ic_poliziamunic_transp.png",
+			"custom_text": "Polizia municipale|City police",
+			"background_color": "0077FF",
+			"small": true
+		},
+		"lc_poliziamunic_transp_flip": {
+			"texture_id": "mtr:lc/location/ic_poliziamunic_transp.png",
+			"custom_text": "Polizia municipale|City police",
+			"flip_custom_text": true,
+			"background_color": "0077FF",
+			"small": true
+		},
+		"lc_ic_poliziamunic_transp": {
+			"texture_id": "mtr:lc/location/ic_poliziamunic_transp.png",
+			"small": true
+		},
+		"lc_porto": {
+			"texture_id": "mtr:lc/location/ic_porto.png",
+			"custom_text": "Porto|Port",
+			"small": true
+		},
+		"lc_porto_flip": {
+			"texture_id": "mtr:lc/location/ic_porto.png",
+			"custom_text": "Porto|Port",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_porto": {
+			"texture_id": "mtr:lc/location/ic_porto.png",
+			"small": true
+		},
+		"lc_poste": {
+			"texture_id": "mtr:lc/location/ic_poste.png",
+			"custom_text": "Poste|Post office",
+			"small": true
+		},
+		"lc_poste_flip": {
+			"texture_id": "mtr:lc/location/ic_poste.png",
+			"custom_text": "Poste|Post office",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_poste": {
+			"texture_id": "mtr:lc/location/ic_poste.png",
+			"small": true
+		},
+		"lc_prontosoc": {
+			"texture_id": "mtr:lc/location/ic_prontosoc.png",
+			"custom_text": "Pronto soccorso|First aid",
+			"small": true
+		},
+		"lc_prontosoc_flip": {
+			"texture_id": "mtr:lc/location/ic_prontosoc.png",
+			"custom_text": "Pronto soccorso|First aid",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_prontosoc": {
+			"texture_id": "mtr:lc/location/ic_prontosoc.png",
+			"small": true
+		},
+		"lc_rifornim": {
+			"texture_id": "mtr:lc/location/ic_rifornim.png",
+			"custom_text": "Stazione di rifornimento|Gas station",
+			"small": true
+		},
+		"lc_rifornim_flip": {
+			"texture_id": "mtr:lc/location/ic_rifornim.png",
+			"custom_text": "Stazione di rifornimento|Gas station",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_rifornim": {
+			"texture_id": "mtr:lc/location/ic_rifornim.png",
+			"small": true
+		},
+		"lc_riparazioni": {
+			"texture_id": "mtr:lc/location/ic_riparazioni.png",
+			"custom_text": "Officina|Mechanic",
+			"small": true
+		},
+		"lc_riparazioni_flip": {
+			"texture_id": "mtr:lc/location/ic_riparazioni.png",
+			"custom_text": "Officina|Mechanic",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_riparazioni": {
+			"texture_id": "mtr:lc/location/ic_riparazioni.png",
+			"small": true
+		},
+		"lc_ristorante": {
+			"texture_id": "mtr:lc/location/ic_ristorante.png",
+			"custom_text": "Ristorante|Restaurant",
+			"small": true
+		},
+		"lc_ristorante_flip": {
+			"texture_id": "mtr:lc/location/ic_ristorante.png",
+			"custom_text": "Ristorante|Restaurant",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_ristorante": {
+			"texture_id": "mtr:lc/location/ic_ristorante.png",
+			"small": true
+		},
+		"lc_scuola": {
+			"texture_id": "mtr:lc/location/ic_scuola.png",
+			"custom_text": "Scuola|School",
+			"small": true
+		},
+		"lc_scuola_flip": {
+			"texture_id": "mtr:lc/location/ic_scuola.png",
+			"custom_text": "Scuola|School",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_scuola": {
+			"texture_id": "mtr:lc/location/ic_scuola.png",
+			"small": true
+		},
+		"lc_stazione": {
+			"texture_id": "mtr:lc/location/ic_stazione.png",
+			"custom_text": "Stazione ferroviaria|Train station",
+			"small": true
+		},
+		"lc_stazione_flip": {
+			"texture_id": "mtr:lc/location/ic_stazione.png",
+			"custom_text": "Stazione ferroviaria|Train station",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_stazione": {
+			"texture_id": "mtr:lc/location/ic_stazione.png",
+			"small": true
+		},
+		"lc_stazione_treni": {
+			"texture_id": "mtr:lc/location/ic_stazione_treni.png",
+			"custom_text": "Treni|Trains",
+			"small": true
+		},
+		"lc_stazione_treni_flip": {
+			"texture_id": "mtr:lc/location/ic_stazione_treni.png",
+			"custom_text": "Treni|Trains",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_stazione_treni": {
+			"texture_id": "mtr:lc/location/ic_stazione_treni.png",
+			"small": true
+		},
+		"lc_supermercato": {
+			"texture_id": "mtr:lc/location/ic_supermercato.png",
+			"custom_text": "Supermercato|Supermarket",
+			"small": true
+		},
+		"lc_supermercato_flip": {
+			"texture_id": "mtr:lc/location/ic_supermercato.png",
+			"custom_text": "Supermercato|Supermarket",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_supermercato": {
+			"texture_id": "mtr:lc/location/ic_supermercato.png",
+			"small": true
+		},
+		"lc_teatro": {
+			"texture_id": "mtr:lc/location/ic_teatro.png",
+			"custom_text": "Teatro|Theatre",
+			"small": true
+		},
+		"lc_teatro_flip": {
+			"texture_id": "mtr:lc/location/ic_teatro.png",
+			"custom_text": "Teatro|Theatre",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_teatro": {
+			"texture_id": "mtr:lc/location/ic_teatro.png",
+			"small": true
+		},
+		"lc_tel": {
+			"texture_id": "mtr:lc/location/ic_tel.png",
+			"custom_text": "Telefono|Telephone",
+			"small": true
+		},
+		"lc_tel_flip": {
+			"texture_id": "mtr:lc/location/ic_tel.png",
+			"custom_text": "Telefono|Telephone",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_tel": {
+			"texture_id": "mtr:lc/location/ic_tel.png",
+			"small": true
+		},
+		"lc_traghetto": {
+			"texture_id": "mtr:lc/location/ic_traghetto.png",
+			"custom_text": "Traghetti|Ferries",
+			"small": true
+		},
+		"lc_traghetto_flip": {
+			"texture_id": "mtr:lc/location/ic_traghetto.png",
+			"custom_text": "Traghetti|Ferries",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_traghetto": {
+			"texture_id": "mtr:lc/location/ic_traghetto.png",
+			"small": true
+		},
+		"lc_ic_ped": {
+			"texture_id": "mtr:lc/prescr/ic_ped.png",
+			"small": true
+		},
+		"lc_ic_ped_attrav": {
+			"texture_id": "mtr:lc/ped/ic_ped_attrav.png",
+			"small": true
+		},
+		"lc_rampa": {
+			"texture_id": "mtr:lc/ped/ic_rampa.png",
+			"custom_text": "Rampa pedonale|Pedestrian ramp ",
+			"small": true
+		},
+		"lc_rampa_flip": {
+			"texture_id": "mtr:lc/ped/ic_rampa.png",
+			"custom_text": "Rampa pedonale|Pedestrian ramp ",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_rampa": {
+			"texture_id": "mtr:lc/ped/ic_rampa.png",
+			"small": true
+		},
+		"lc_ritrovo": {
+			"texture_id": "mtr:lc/ped/ic_ritrovo.png",
+			"custom_text": "Punto di raccolta|Gathering point",
+			"small": true
+		},
+		"lc_ritrovo_flip": {
+			"texture_id": "mtr:lc/ped/ic_ritrovo.png",
+			"custom_text": "Punto di raccolta|Gathering point",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_ritrovo": {
+			"texture_id": "mtr:lc/ped/ic_ritrovo.png",
+			"small": true
+		},
+		"lc_sottopass": {
+			"texture_id": "mtr:lc/ped/ic_sottopass.png",
+			"custom_text": "Sottopassaggio|Underpass ",
+			"small": true
+		},
+		"lc_sottopass_flip": {
+			"texture_id": "mtr:lc/ped/ic_sottopass.png",
+			"custom_text": "Sottopassaggio|Underpass ",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_sottopass": {
+			"texture_id": "mtr:lc/ped/ic_sottopass.png",
+			"small": true
+		},
+		"lc_sovrapass": {
+			"texture_id": "mtr:lc/ped/ic_sovrapass.png",
+			"custom_text": "Sovrapassaggio|Overpass",
+			"small": true
+		},
+		"lc_sovrapass_flip": {
+			"texture_id": "mtr:lc/ped/ic_sovrapass.png",
+			"custom_text": "Sovrapassaggio|Overpass",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_sovrapass": {
+			"texture_id": "mtr:lc/ped/ic_sovrapass.png",
+			"small": true
+		},
+		"lc_uscita_emg": {
+			"texture_id": "mtr:lc/ped/ic_uscita_emg.png",
+			"custom_text": "Uscita di emergenza|Emergency exit",
+			"small": true
+		},
+		"lc_uscita_emg_flip": {
+			"texture_id": "mtr:lc/ped/ic_uscita_emg.png",
+			"custom_text": "Uscita di emergenza|Emergency exit",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_uscita_emg": {
+			"texture_id": "mtr:lc/ped/ic_uscita_emg.png",
+			"small": true
+		},
+		"lc_ic_gen": {
+			"texture_id": "mtr:lc/peric/temp/ic_gen.png",
+			"small": true
+		},
+		"lc_ic_lavori": {
+			"texture_id": "mtr:lc/peric/temp/ic_lavori.png",
+			"small": true
+		},
+		"lc_ic_preced": {
+			"texture_id": "mtr:lc/prescr/ic_preced.png",
+			"small": true
+		},
+		"lc_ic_senso": {
+			"texture_id": "mtr:lc/prescr/ic_senso.png",
+			"small": true
+		},
+		"lc_ic_stop": {
+			"texture_id": "mtr:lc/prescr/ic_stop.png",
+			"small": true
+		},
+		"lc_arco": {
+			"texture_id": "mtr:lc/sport/ic_arco.png",
+			"custom_text": "Tiro con l'arco|Archery range",
+			"small": true
+		},
+		"lc_arco_flip": {
+			"texture_id": "mtr:lc/sport/ic_arco.png",
+			"custom_text": "Tiro con l'arco|Archery range",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_arco": {
+			"texture_id": "mtr:lc/sport/ic_arco.png",
+			"small": true
+		},
+		"lc_funivia": {
+			"texture_id": "mtr:lc/sport/ic_funivia.png",
+			"custom_text": "Funivia|Cableway",
+			"small": true
+		},
+		"lc_funivia_flip": {
+			"texture_id": "mtr:lc/sport/ic_funivia.png",
+			"custom_text": "Funivia|Cableway",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_funivia": {
+			"texture_id": "mtr:lc/sport/ic_funivia.png",
+			"small": true
+		},
+		"lc_ippodromo": {
+			"texture_id": "mtr:lc/sport/ic_ippodromo.png",
+			"custom_text": "Ippodromo|Hippodrome",
+			"small": true
+		},
+		"lc_ippodromo_flip": {
+			"texture_id": "mtr:lc/sport/ic_ippodromo.png",
+			"custom_text": "Ippodromo|Hippodrome",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_ippodromo": {
+			"texture_id": "mtr:lc/sport/ic_ippodromo.png",
+			"small": true
+		},
+		"lc_pattinaggio": {
+			"texture_id": "mtr:lc/sport/ic_pattinaggio.png",
+			"custom_text": "Palaghiaccio|Ice rink",
+			"small": true
+		},
+		"lc_pattinaggio_flip": {
+			"texture_id": "mtr:lc/sport/ic_pattinaggio.png",
+			"custom_text": "Palaghiaccio|Ice rink",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_pattinaggio": {
+			"texture_id": "mtr:lc/sport/ic_pattinaggio.png",
+			"small": true
+		},
+		"lc_piscina": {
+			"texture_id": "mtr:lc/sport/ic_piscina.png",
+			"custom_text": "Piscina|Swimming pool",
+			"small": true
+		},
+		"lc_piscina_flip": {
+			"texture_id": "mtr:lc/sport/ic_piscina.png",
+			"custom_text": "Piscina|Swimming pool",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_piscina": {
+			"texture_id": "mtr:lc/sport/ic_piscina.png",
+			"small": true
+		},
+		"lc_seggiovia": {
+			"texture_id": "mtr:lc/sport/ic_seggiovia.png",
+			"custom_text": "Seggiovia|Ski lift",
+			"small": true
+		},
+		"lc_seggiovia_flip": {
+			"texture_id": "mtr:lc/sport/ic_seggiovia.png",
+			"custom_text": "Seggiovia|Ski lift",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_seggiovia": {
+			"texture_id": "mtr:lc/sport/ic_seggiovia.png",
+			"small": true
+		},
+		"lc_stadio": {
+			"texture_id": "mtr:lc/sport/ic_stadio.png",
+			"custom_text": "Stadio|Stadium",
+			"small": true
+		},
+		"lc_stadio_flip": {
+			"texture_id": "mtr:lc/sport/ic_stadio.png",
+			"custom_text": "Stadio|Stadium",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_stadio": {
+			"texture_id": "mtr:lc/sport/ic_stadio.png",
+			"small": true
+		},
+		"lc_tiro": {
+			"texture_id": "mtr:lc/sport/ic_tiro.png",
+			"custom_text": "Poligono di tiro|Firing range",
+			"small": true
+		},
+		"lc_tiro_flip": {
+			"texture_id": "mtr:lc/sport/ic_tiro.png",
+			"custom_text": "Poligono di tiro|Firing range",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_tiro": {
+			"texture_id": "mtr:lc/sport/ic_tiro.png",
+			"small": true
+		},
+		"lc_biglietteria": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria.png",
+			"custom_text": "Biglietteria automatica|Ticket machines",
+			"small": true
+		},
+		"lc_biglietteria_flip": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria.png",
+			"custom_text": "Biglietteria automatica|Ticket machines",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_biglietteria": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria.png",
+			"small": true
+		},
+		"lc_biglietteria_inv": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria_inv.png",
+			"custom_text": "Biglietteria automatica|Ticket machines",
+			"background_color": "FFFFFF",
+			"small": true
+		},
+		"lc_biglietteria_inv_flip": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria_inv.png",
+			"custom_text": "Biglietteria automatica|Ticket machines",
+			"flip_custom_text": true,
+			"background_color": "FFFFFF",
+			"small": true
+		},
+		"lc_ic_biglietteria_inv": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria_inv.png",
+			"small": true
+		},
+		"lc_biglietteria_spor": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria_spor.png",
+			"custom_text": "Biglietteria|Ticket office",
+			"small": true
+		},
+		"lc_biglietteria_spor_flip": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria_spor.png",
+			"custom_text": "Biglietteria|Ticket office",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_biglietteria_spor": {
+			"texture_id": "mtr:lc/staz/ic_biglietteria_spor.png",
+			"small": true
+		},
+		"lc_salaattesa": {
+			"texture_id": "mtr:lc/staz/ic_salaattesa.png",
+			"custom_text": "Sala d'attesa|Waiting room",
+			"small": true
+		},
+		"lc_salaattesa_flip": {
+			"texture_id": "mtr:lc/staz/ic_salaattesa.png",
+			"custom_text": "Sala d'attesa|Waiting room",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_salaattesa": {
+			"texture_id": "mtr:lc/staz/ic_salaattesa.png",
+			"small": true
+		},
+		"lc_ic_acqua": {
+			"texture_id": "mtr:lc/turismo/ic_acqua.png",
+			"small": true
+		},
+		"lc_acquario": {
+			"texture_id": "mtr:lc/turismo/ic_acquario.png",
+			"custom_text": "Acquario|Acquarium",
+			"small": true
+		},
+		"lc_acquario_flip": {
+			"texture_id": "mtr:lc/turismo/ic_acquario.png",
+			"custom_text": "Acquario|Acquarium",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_acquario": {
+			"texture_id": "mtr:lc/turismo/ic_acquario.png",
+			"small": true
+		},
+		"lc_cascata": {
+			"texture_id": "mtr:lc/turismo/ic_cascata.png",
+			"custom_text": "Cascata|Falls",
+			"small": true
+		},
+		"lc_cascata_flip": {
+			"texture_id": "mtr:lc/turismo/ic_cascata.png",
+			"custom_text": "Cascata|Falls",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_cascata": {
+			"texture_id": "mtr:lc/turismo/ic_cascata.png",
+			"small": true
+		},
+		"lc_castello": {
+			"texture_id": "mtr:lc/turismo/ic_castello.png",
+			"custom_text": "Castello|Castle",
+			"small": true
+		},
+		"lc_castello_flip": {
+			"texture_id": "mtr:lc/turismo/ic_castello.png",
+			"custom_text": "Castello|Castle",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_castello": {
+			"texture_id": "mtr:lc/turismo/ic_castello.png",
+			"small": true
+		},
+		"lc_escurs": {
+			"texture_id": "mtr:lc/turismo/ic_escurs.png",
+			"custom_text": "Percorso escursioni|Hiking trail",
+			"small": true
+		},
+		"lc_escurs_flip": {
+			"texture_id": "mtr:lc/turismo/ic_escurs.png",
+			"custom_text": "Percorso escursioni|Hiking trail",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_escurs": {
+			"texture_id": "mtr:lc/turismo/ic_escurs.png",
+			"small": true
+		},
+		"lc_foresta": {
+			"texture_id": "mtr:lc/turismo/ic_foresta.png",
+			"custom_text": "Foresta|Forest",
+			"small": true
+		},
+		"lc_foresta_flip": {
+			"texture_id": "mtr:lc/turismo/ic_foresta.png",
+			"custom_text": "Foresta|Forest",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_foresta": {
+			"texture_id": "mtr:lc/turismo/ic_foresta.png",
+			"small": true
+		},
+		"lc_grotte": {
+			"texture_id": "mtr:lc/turismo/ic_grotte.png",
+			"custom_text": "Grotte|Caves",
+			"small": true
+		},
+		"lc_grotte_flip": {
+			"texture_id": "mtr:lc/turismo/ic_grotte.png",
+			"custom_text": "Grotte|Caves",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_grotte": {
+			"texture_id": "mtr:lc/turismo/ic_grotte.png",
+			"small": true
+		},
+		"lc_museo": {
+			"texture_id": "mtr:lc/turismo/ic_museo.png",
+			"custom_text": "Museo|Museum",
+			"small": true
+		},
+		"lc_museo_flip": {
+			"texture_id": "mtr:lc/turismo/ic_museo.png",
+			"custom_text": "Museo|Museum",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_museo": {
+			"texture_id": "mtr:lc/turismo/ic_museo.png",
+			"small": true
+		},
+		"lc_picnic": {
+			"texture_id": "mtr:lc/turismo/ic_picnic.png",
+			"custom_text": "Area pic-nic|Picnic area",
+			"small": true
+		},
+		"lc_picnic_flip": {
+			"texture_id": "mtr:lc/turismo/ic_picnic.png",
+			"custom_text": "Area pic-nic|Picnic area",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_picnic": {
+			"texture_id": "mtr:lc/turismo/ic_picnic.png",
+			"small": true
+		},
+		"lc_pineta": {
+			"texture_id": "mtr:lc/turismo/ic_pineta.png",
+			"custom_text": "Pineta|Pine forest",
+			"small": true
+		},
+		"lc_pineta_flip": {
+			"texture_id": "mtr:lc/turismo/ic_pineta.png",
+			"custom_text": "Pineta|Pine forest",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_pineta": {
+			"texture_id": "mtr:lc/turismo/ic_pineta.png",
+			"small": true
+		},
+		"lc_pineta_mare": {
+			"texture_id": "mtr:lc/turismo/ic_pineta_mare.png",
+			"custom_text": "Pineta|Pine forest",
+			"small": true
+		},
+		"lc_pineta_mare_flip": {
+			"texture_id": "mtr:lc/turismo/ic_pineta_mare.png",
+			"custom_text": "Pineta|Pine forest",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_pineta_mare": {
+			"texture_id": "mtr:lc/turismo/ic_pineta_mare.png",
+			"small": true
+		},
+		"lc_porto_tur": {
+			"texture_id": "mtr:lc/turismo/ic_porto_tur.png",
+			"custom_text": "Porto turistico|Marina",
+			"small": true
+		},
+		"lc_porto_tur_flip": {
+			"texture_id": "mtr:lc/turismo/ic_porto_tur.png",
+			"custom_text": "Porto turistico|Marina",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_porto_tur": {
+			"texture_id": "mtr:lc/turismo/ic_porto_tur.png",
+			"small": true
+		},
+		"lc_puntopan": {
+			"texture_id": "mtr:lc/turismo/ic_puntopan.png",
+			"custom_text": "Punto panoramico|Vantage point",
+			"small": true
+		},
+		"lc_puntopan_flip": {
+			"texture_id": "mtr:lc/turismo/ic_puntopan.png",
+			"custom_text": "Punto panoramico|Vantage point",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_puntopan": {
+			"texture_id": "mtr:lc/turismo/ic_puntopan.png",
+			"small": true
+		},
+		"lc_terme": {
+			"texture_id": "mtr:lc/turismo/ic_terme.png",
+			"custom_text": "Terme|Hot springs",
+			"small": true
+		},
+		"lc_terme_flip": {
+			"texture_id": "mtr:lc/turismo/ic_terme.png",
+			"custom_text": "Terme|Hot springs",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_terme": {
+			"texture_id": "mtr:lc/turismo/ic_terme.png",
+			"small": true
+		},
+		"lc_zonaarcheo": {
+			"texture_id": "mtr:lc/turismo/ic_zonaarcheo.png",
+			"custom_text": "Zona archeologica|Archeological area",
+			"small": true
+		},
+		"lc_zonaarcheo_flip": {
+			"texture_id": "mtr:lc/turismo/ic_zonaarcheo.png",
+			"custom_text": "Zona archeologica|Archeological area",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_zonaarcheo": {
+			"texture_id": "mtr:lc/turismo/ic_zonaarcheo.png",
+			"small": true
+		},
+		"lc_zoo": {
+			"texture_id": "mtr:lc/turismo/ic_zoo.png",
+			"custom_text": "Zoo",
+			"small": true
+		},
+		"lc_zoo_flip": {
+			"texture_id": "mtr:lc/turismo/ic_zoo.png",
+			"custom_text": "Zoo",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_zoo": {
+			"texture_id": "mtr:lc/turismo/ic_zoo.png",
+			"small": true
+		},
+		"lc_ic_autoc": {
+			"texture_id": "mtr:lc/veicoli/ic_autoc.png",
+			"small": true
+		},
+		"lc_ic_autov": {
+			"texture_id": "mtr:lc/veicoli/ic_autov.png",
+			"small": true
+		},
+		"lc_ic_bici": {
+			"texture_id": "mtr:lc/veicoli/ic_bici.png",
+			"small": true
+		},
+		"lc_bus_extra": {
+			"texture_id": "mtr:lc/veicoli/ic_bus_extra.png",
+			"custom_text": "Bus extraurbani|Suburban buses",
+			"small": true
+		},
+		"lc_bus_extra_flip": {
+			"texture_id": "mtr:lc/veicoli/ic_bus_extra.png",
+			"custom_text": "Bus extraurbani|Suburban buses",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_bus_extra": {
+			"texture_id": "mtr:lc/veicoli/ic_bus_extra.png",
+			"small": true
+		},
+		"lc_bus_urb": {
+			"texture_id": "mtr:lc/veicoli/ic_bus_urb.png",
+			"custom_text": "Bus urbani|City buses",
+			"small": true
+		},
+		"lc_bus_urb_flip": {
+			"texture_id": "mtr:lc/veicoli/ic_bus_urb.png",
+			"custom_text": "Bus urbani|City buses",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_bus_urb": {
+			"texture_id": "mtr:lc/veicoli/ic_bus_urb.png",
+			"small": true
+		},
+		"lc_ic_caricosc": {
+			"texture_id": "mtr:lc/veicoli/ic_caricosc.png",
+			"small": true
+		},
+		"lc_ic_ciclom": {
+			"texture_id": "mtr:lc/veicoli/ic_ciclom.png",
+			"small": true
+		},
+		"lc_invalido": {
+			"texture_id": "mtr:lc/veicoli/ic_invalido.png",
+			"custom_text": "Accesso disabili|Wheelchair access",
+			"small": true
+		},
+		"lc_invalido_flip": {
+			"texture_id": "mtr:lc/veicoli/ic_invalido.png",
+			"custom_text": "Accesso disabili|Wheelchair access",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_invalido": {
+			"texture_id": "mtr:lc/veicoli/ic_invalido.png",
+			"small": true
+		},
+		"lc_metrop": {
+			"texture_id": "mtr:lc/veicoli/ic_metrop.png",
+			"custom_text": "Metropolitana|Subway",
+			"small": true
+		},
+		"lc_metrop_flip": {
+			"texture_id": "mtr:lc/veicoli/ic_metrop.png",
+			"custom_text": "Metropolitana|Subway",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_metrop": {
+			"texture_id": "mtr:lc/veicoli/ic_metrop.png",
+			"small": true
+		},
+		"lc_ic_mezzodopera": {
+			"texture_id": "mtr:lc/veicoli/ic_mezzodopera.png",
+			"small": true
+		},
+		"lc_ic_motoc": {
+			"texture_id": "mtr:lc/veicoli/ic_motoc.png",
+			"small": true
+		},
+		"lc_ic_motocar": {
+			"texture_id": "mtr:lc/veicoli/ic_motocar.png",
+			"small": true
+		},
+		"lc_parchimetro": {
+			"texture_id": "mtr:lc/veicoli/ic_parchimetro.png",
+			"custom_text": "Parchimetro|Parking meter",
+			"small": true
+		},
+		"lc_parchimetro_flip": {
+			"texture_id": "mtr:lc/veicoli/ic_parchimetro.png",
+			"custom_text": "Parchimetro|Parking meter",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_parchimetro": {
+			"texture_id": "mtr:lc/veicoli/ic_parchimetro.png",
+			"small": true
+		},
+		"lc_ic_scarico": {
+			"texture_id": "mtr:lc/veicoli/ic_scarico.png",
+			"small": true
+		},
+		"lc_ic_taxi": {
+			"texture_id": "mtr:lc/veicoli/ic_taxi.png",
+			"small": true
+		},
+		"lc_ic_taxi_o": {
+			"texture_id": "mtr:lc/veicoli/ic_taxi_o.png",
+			"small": true
+		},
+		"lc_tram": {
+			"texture_id": "mtr:lc/veicoli/ic_tram.png",
+			"custom_text": "Tram|Trams",
+			"small": true
+		},
+		"lc_tram_flip": {
+			"texture_id": "mtr:lc/veicoli/ic_tram.png",
+			"custom_text": "Tram|Trams",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"lc_ic_tram": {
+			"texture_id": "mtr:lc/veicoli/ic_tram.png",
+			"small": true
+		},
+		"lc_ic_trattrice": {
+			"texture_id": "mtr:lc/veicoli/ic_trattrice.png",
+			"small": true
+		}
+	}
+}
